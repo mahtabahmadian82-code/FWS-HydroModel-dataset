@@ -1,7 +1,17 @@
+README.txt
+-----------
 Constructed Wetland COMSOL Model
-This repository contains documentation, supporting scripts, and small result files for the constructed wetland COMSOL models.
-A representative COMSOL model file is hosted on Zenodo: https://doi.org/10.5281/zenodo.17272097 
-Note: Due to the large size of the full COMSOL files, only one representative model has been uploaded to Zenodo. This file includes all essential components needed to reproduce the study.
-GitHub repository URL: [https://github.com/mahtabahmadian82-code/constructed-wetland-model.git] 
-This repository is intended to provide guidance, scripts, and example results to complement the Zenodo dataset.
+Author: Mahtab Ahmadian Software: COMSOL Multiphysics v6.1 Files
+Software: COMSOL Multiphysics v6.1
+:Files
+- Representative_Model.mph : base model setup with flat bed and no obstruction
+- velocity_field.csv : exported velocity components (U,V) at steady state
+- tracer_concentration.csv : tracer concentration distribution (dimensionless)
+:Data access
+Full dataset including the sample COMSOL model is hosted on Zenodo: https://doi.org/10.5281/zenodo.17272097
+:Repository URL
+https://github.com/mahtabahmadian82-code/constructed-wetland-model.git
+:Usage
+These files are intended to demonstrate the modelling framework described in the manuscript
 
+ License: CC-BY-4.0
