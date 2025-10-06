@@ -10,7 +10,7 @@ Software: COMSOL Multiphysics v6.1
 :Data access
 Full dataset including the sample COMSOL model is hosted on Zenodo: https://doi.org/10.5281/zenodo.17272097
 :Repository URL
-https://github.com/mahtabahmadian82-code/constructed-wetland-model.git
+https://github.com/mahtabahmadian82-code/FWS-HydroModel-dataset.git
 :Usage
 These files are intended to demonstrate the modelling framework described in the manuscript
 
