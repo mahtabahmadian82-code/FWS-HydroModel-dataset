@@ -4,7 +4,7 @@ Author: Mahtab Ahmadian
 Software: COMSOL Multiphysics v6.1  
 
 Files:
-- FWS_HydroModel_BaseCase(BasinA.mph)**: Base model setup with flat bed and no obstruction. (Due to large file size, only one representative basin model is provided.)
+- FWS_HydroModel_BaseCase(BasinA.mph): Base model setup with flat bed and no obstruction. (Due to large file size, only one representative basin model is provided.)
 - velocity_field.csv**: Exported velocity components (U, V) at steady state.
 - concentration-outlet.csv**: Tracer concentration distribution at the outlet (dimensionless).
 
